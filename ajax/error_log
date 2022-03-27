@@ -1,0 +1,147 @@
+[14-Feb-2015 16:35:21 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 16:35:22 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 16:35:22 America/New_York] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 54
+[14-Feb-2015 16:35:59 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 16:35:59 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 16:35:59 America/New_York] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 54
+[14-Feb-2015 16:45:34 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 16:45:34 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 16:50:20 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 16:50:20 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 16:52:20 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 16:52:20 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[14-Feb-2015 17:06:06 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:06:06 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 17:06:18 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:06:18 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 17:06:30 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:06:30 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 17:07:13 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:07:13 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 17:07:17 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:07:24 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:07:24 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 17:07:25 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:07:25 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 17:07:27 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:07:27 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 17:07:27 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:07:27 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[14-Feb-2015 17:07:29 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:07:35 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[14-Feb-2015 17:07:35 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[23-Feb-2015 05:26:53 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 05:26:53 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 05:26:59 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 05:26:59 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 05:27:06 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 05:27:06 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 05:27:06 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 05:27:06 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 05:27:06 America/New_York] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 49
+[23-Feb-2015 06:21:11 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:21:11 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 06:21:15 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:21:15 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 06:21:24 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:21:24 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 06:21:24 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:21:24 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 06:21:25 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:21:25 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 06:21:30 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:21:30 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 06:21:30 America/New_York] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 49
+[23-Feb-2015 06:21:38 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:21:38 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 06:21:38 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:21:38 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset_list.php on line 38
+[23-Feb-2015 06:23:24 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:23:24 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 06:23:27 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 06:23:27 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:15:24 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:15:24 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:15:25 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:15:25 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:15:26 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:15:26 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:16:33 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:16:33 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:16:37 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:16:37 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:16:37 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:16:37 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:16:40 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:16:40 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:17:20 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:17:20 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:17:36 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:17:36 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:17:37 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:17:37 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 22:28:58 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:28:58 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:29:12 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:29:29 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:29:29 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:29:31 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:29:58 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:29:58 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/supplier.list.php on line 35
+[23-Feb-2015 22:34:44 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:34:44 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:34:44 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:34:44 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:34:44 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:34:44 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:34:44 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:34:44 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:34:46 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:34:58 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:34:58 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:34:59 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:34:59 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:35:01 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:35:05 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:35:06 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:37:05 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:37:05 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/supplier.list.php on line 35
+[23-Feb-2015 22:38:48 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:38:48 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spa.list.php on line 57
+[23-Feb-2015 22:38:51 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:44:06 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 22:44:07 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[23-Feb-2015 22:44:15 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:03:44 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:03:44 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[23-Feb-2015 23:04:23 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:04:23 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/spb.list.php on line 44
+[23-Feb-2015 23:04:29 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:19:46 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:19:46 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset.php on line 35
+[23-Feb-2015 23:19:52 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:19:52 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset.php on line 35
+[23-Feb-2015 23:19:54 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:19:54 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset.php on line 35
+[23-Feb-2015 23:19:57 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:19:57 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 23:20:04 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:20:04 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset.php on line 35
+[23-Feb-2015 23:20:10 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:20:10 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset.php on line 35
+[23-Feb-2015 23:33:10 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:33:10 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[23-Feb-2015 23:42:35 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[23-Feb-2015 23:42:35 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[25-Feb-2015 04:11:16 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[25-Feb-2015 04:11:16 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset.php on line 35
+[25-Feb-2015 04:11:24 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[25-Feb-2015 04:11:24 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset.php on line 35
+[25-Feb-2015 04:11:25 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[25-Feb-2015 04:11:25 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset.php on line 35
+[25-Feb-2015 04:11:25 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[25-Feb-2015 04:11:25 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/asset.php on line 35
+[25-Feb-2015 04:11:28 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[25-Feb-2015 04:11:28 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36
+[25-Feb-2015 04:11:30 America/New_York] PHP Strict Standards:  Only variables should be assigned by reference in /home/k1257545/public_html/tatamulia/asset/includes/connect.inc.php on line 5
+[25-Feb-2015 04:11:30 America/New_York] PHP Warning:  Creating default object from empty value in /home/k1257545/public_html/tatamulia/asset/ajax/barang.php on line 36

@@ -1,0 +1,83 @@
+body{margin: 0px; padding: 0px;width:100%;font: 0.7em "Liberation sans", Arial, Helvetica, sans-serif; color:#000;}
+html {padding:0;margin:0;}
+.clr {clear:both;padding:0;margin:0;width:100%;font-size:0;line-height:0}
+.shell {margin:0 auto;padding:0;width:950px;min-width:750px;height: auto !important;}
+.cleaner { clear: both }
+.float_l { float: left }
+.float_r { float: right }
+
+.header{padding:0;margin:5px 0 0 0;float:left;width:100%;}
+
+.center {padding:0;margin:0 auto;width: 100%;height: 100%;display: block;clear: both;}
+.content{width:100%;float:left;}
+.content p {margin:8px 0;padding:0 0 8px 0;}
+.content a {color:#ffa30c;text-decoration:underline;}
+.content_resize {margin:0 auto;padding:0;width:100%;}
+.content .mainbar {margin:0;padding:0;float:left;width:100%;
+}
+.content .mainbar .article {
+	margin:2px 0 32px;
+	padding:0px 20px 6px 20px;
+	background:#fff;
+	border:1px solid #d5d2d2;
+}
+.content .mainbar .article .clr {clear:both;padding:0; margin:0; width:100%;font-size:0;line-height:0;}
+p.infopost {
+	margin:0 -20px 8px -20px;
+	padding:9px 20px;
+	color:#fff;
+	background:#ff9e0b;
+}
+p.infopost a {
+	padding:0 2px;
+	text-decoration:none;
+	color:#fff;
+	font-size:12px;
+	font-weight:bold;
+}
+
+a.back{color: #CC0000;text-decoration: none;}
+a.back:hover {text-decoration: underline;}
+#tabel{color: #000000;background-color:#333333;}
+#tabel th{background-color:#999999;}
+#tabel td{background-color:#FFFFFF;}
+
+.button {
+	background: #E0691A url(images/submit.gif) no-repeat;
+	border: 0;
+	padding: 4px 0;
+	width: 65px;
+	margin: 2px 0 2px 0;
+	color: #FFF;
+	font: bold 1em Arial, Sans-Serif;
+}
+.edit {
+  color:#000000;
+  background-color:#ffffff;
+  border:1px solid #444444;
+  font-size:11px;
+  width:120px;
+}
+.text {
+  border:1px solid #2D2D2D;
+  padding-left:3px;
+}
+.text_require {
+  border:1px solid #838383;
+  background-color: #EBF2FA;
+  padding-left:3px;
+}
+
+.footer { 
+	clear: both;
+	text-align: center;
+	padding: 20px 0 10px 0;
+	margin: 0;
+	font: 1em Tahoma, sans-serif; 
+	color: black;
+	border-top: 1px solid #ccc;
+	line-height: 1.8em;
+}
+.footer p {	margin: 0 0 5px 0; }
+.footer a { color: black; background: #fff; }
+
